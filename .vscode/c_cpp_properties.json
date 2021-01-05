@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/",
+                "/usr/local/include/opencv4/",
+                "/usr/local/include/opencv4/opencv2/",
+                "/home/rcxxx/workspace/tensorflow/",
+                "/home/rcxxx/workspace/tensorflow/bazel-genfiles/",
+                "/home/rcxxx/workspace/tensorflow/tensorflow/contrib/makefile/downloads/",
+                "/home/rcxxx/workspace/tensorflow/tensorflow/contrib/makefile/downloads/eigen/",
+                "/home/rcxxx/workspace/tensorflow/tensorflow/contrib/makefile/downloads/absl/",
+                "/home/rcxxx/workspace/tensorflow/tensorflow/contrib/makefile/downloads/protobuf/",
+                "/home/rcxxx/workspace/tensorflow/tensorflow/contrib/makefile/downloads/protobuf/src/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
